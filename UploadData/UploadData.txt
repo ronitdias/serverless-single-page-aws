@@ -1,0 +1,1 @@
+This section of code is telling the S3 Sync plugin to upload the contents of the UploadData folder to our bucket. We don't currently have that folder so we need to create it and add some files. You can add a text file, an image, or whatever you want to be uploaded, just make sure there is at least 1 file in the folder.
